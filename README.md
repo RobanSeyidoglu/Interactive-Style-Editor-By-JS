@@ -1,13 +1,17 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Interactive-Style-Editor-By-JS}</h1>
+<h1 align="center">{Interactive-Style-Editor-By-JS }</h1>
+
+
 
 <div align="center">
   <h3>
-    <a href="https://robanseyidoglu.github.io/Interactive-Style-Editor-By-JS/" target="_blank">
+    <a href="https://robanseyidoglu.github.io/Interactive-Style-Editor-By-JS/" >
       Demo
     </a>
     <span> | </span>
+   
+ 
   </h3>
 </div>
 
@@ -27,13 +31,15 @@
 
 ![screenshot](https://github.com/RobanSeyidoglu/Interactive-Style-Editor-By-JS/assets/123882030/895a4cfd-d3aa-4b23-862d-ed6153d817c6)
 
+
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples. -->
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [JavaScript]
 - [HTML]
 - [CSS]
+
 
 ## Features
 
@@ -41,5 +47,5 @@
 
 ## Contact
 
-- GitHub [@RobanSeyidoglu](https://github.com/RobanSeyidoglu){:target="_blank"}
-- LinkedIn [@RobanSeyidoglu](https://www.linkedin.com/in/roban-seyidoglu/){:target="_blank"}
+- GitHub [@RobanSeyidoglu](https://github.com/RobanSeyidoglu)
+- LinkedIn [@RobanSeyidoglu](https://www.linkedin.com/in/roban-seyidoglu/)
