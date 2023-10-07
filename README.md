@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://robanseyidoglu.github.io/Interactive-Style-Editor-By-JS/">
+    <a href="https://robanseyidoglu.github.io/Interactive-Style-Editor-By-JS/" target="_blank">
       Demo
     </a>
     <span> | </span>
