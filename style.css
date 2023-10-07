@@ -1,20 +1,45 @@
 body {
-    text-align: center;
-    background: #193549;
-    color: white;
-    font-family: 'helvetica neue', sans-serif;
-    font-weight: 100;
-    font-size: 50px;
-  }
+  text-align: center;
+  background: #193549;
+  color: white;
+  font-family: "helvetica neue", sans-serif;
+  font-weight: 100;
+  font-size: 50px;
+  overflow: hidden;
+}
+h2,
+label {
+  font-size: 3vw;
+}
+.controls {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-flow: wrap;
+  margin-bottom: 50px;
+}
 
-  .controls {
-    margin-bottom: 50px;
+input {
+  width: 100px;
+}
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  max-width: 100%;
+}
+.image img {
+  width: 70%;
+}
+@media (max-width: 991px) {
+  .image img {
+    width: 80%;
   }
-
-  input {
-    width: 100px;
+}
+@media (max-width: 768px) {
+  .image img {
+    width: 100%;
   }
-  img{
-    padding: 10px;
- 
-  }
+}
